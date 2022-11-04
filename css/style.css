@@ -644,6 +644,7 @@ input:checked + .slider:before {
   display: inline-block;
   width: 240px;
   text-align: center;
+  margin: 20px;
 }
 
 .img-container {
